@@ -2,4 +2,5 @@
 
 - readme.md ... このファイル
 - src/
-    -First.java ... はじめてのJava
+    - First.java ... はじめてのJava
+    - Second.java ... おやすみJava
